@@ -1,2 +1,2 @@
-Integral - проект на C++
+Integral - проект на C++  /
 IntegralCSharp - проект на C#
